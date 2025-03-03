@@ -45,6 +45,10 @@ header {
     padding: 20px 0;
 }
 
+header img{
+    margin-right: 30px;
+}
+
 header a {
     color: var(--secondary-color);
     text-decoration: none;
@@ -53,6 +57,7 @@ header a {
 .Intro {
     font-size: 30px;
     font-weight: bold;
+    margin: 0%;
 }
 
 nav a {
@@ -85,4 +90,12 @@ section p {
 .me p {
     font-size: 1.2rem;
 }
+
+img{
+  width: 50px;
+  height: auto;  
+  border-radius: 50%;
+  float: left;
+}
+
 
